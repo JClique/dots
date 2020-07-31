@@ -1,5 +1,7 @@
 # Don't Over Think S**t
 
+<img src="https://www.pngitem.com/pimgs/m/127-1276065_poo-face-emoji-cutouts-poop-emoji-hd-png.png" width="100px">
+
 D.O.T.S is a basic front-end application built using Vue JS to simulate a simple To-Do app.
 
 ## Project setup
