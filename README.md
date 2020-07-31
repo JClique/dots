@@ -1,4 +1,6 @@
-# dots
+# Don't Over Think S**t
+
+D.O.T.S is a basic front-end application built using Vue JS to simulate a simple To-Do app.
 
 ## Project setup
 ```
